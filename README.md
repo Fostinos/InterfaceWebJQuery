@@ -6,5 +6,5 @@ ESP32 Web Server (LED Blinking)
 #### Charger USB Micro B  
 
 # Wi-Fi
-#### SSID : ***INPT-TEST***
-#### PassWord : ***iinnpptt***
+#### SSID : ***xxxxxxx***
+#### PassWord : ***xxxxxxxx***
